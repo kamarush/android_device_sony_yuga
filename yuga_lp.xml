@@ -14,6 +14,8 @@
 <project path="vendor/sony/yuga" name="proprietary_vendor_sony_yuga" remote="kamarush" revision="android-5.1.1" />
 <project path="kernel/sony/yuga" name="sony_yuga_aosp_kernel" remote="kamarush" revision="android-5.1.1" />
 
+<project path="vendor/google/products" name="vendor-google-products" remote="kamarush" revision="l-mr1" />
+
 <project path="vendor/sony/system/thermanager" name="thermanager" groups="device" remote="sony" revision="master" />
 <project path="vendor/sony/system/mkqcdtbootimg" name="mkqcdtbootimg" groups="device" remote="sony" revision="master" />
 <project path="vendor/sony/system/timekeep" name="timekeep" groups="device" remote="sony" revision="master" />
