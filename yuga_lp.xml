@@ -26,12 +26,6 @@
 <project path="external/busybox"      name="CyanogenMod/android_external_busybox" remote="github" revision="cm-12.1" />
 <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="github" revision="cm-12.1" />
 
-<!-- Opengapps -->
-
-<project path="vendor/google/build" name="aosp_build" revision="master" remote="opengapps" />
-<project path="vendor/opengapps/sources/all" name="all" clone-depth="1" revision="master" remote="opengapps" />
-<project path="vendor/opengapps/sources/arm" name="arm" clone-depth="1" revision="master" remote="opengapps" />
-
 </manifest>
 
 
