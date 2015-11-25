@@ -26,6 +26,9 @@
 <project path="external/busybox"      name="CyanogenMod/android_external_busybox" remote="github" revision="cm-12.1" />
 <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="github" revision="cm-12.1" />
 
+<!-- OTA -->
+<project path="packages/apps/OTAUpdates" name="MatthewBooth/OTAUpdates" revision="aosp" />
+
 </manifest>
 
 
