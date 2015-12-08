@@ -6,4 +6,4 @@ This is the Android device configuration for Xperia Z (lagan platform).
 Build instructions
 http://developer.sonymobile.com/knowledge-base/open-source/open-devices/aosp-build-instructions/
 
-Copy to .repo/local_manifests yuga_lp.xml and repo sync.
+Copy to .repo/local_manifests yuga_mm.xml and repo sync.
