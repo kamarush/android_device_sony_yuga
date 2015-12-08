@@ -12,9 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-TARGET_PREBUILT_KERNEL := kernel
-PRODUCT_COPY_FILES += $(LOCAL_PATH)/$(TARGET_PREBUILT_KERNEL):kernel
-
 $(call inherit-product, device/sony/lagan/device_phone.mk)
 $(call inherit-product, vendor/sony/yuga/yuga-vendor.mk)
 $(call inherit-product-if-exists, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
